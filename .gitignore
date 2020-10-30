@@ -1,0 +1,5 @@
+# nix build symlink
+result
+
+# binary
+pa-cycle-profile
